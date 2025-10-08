@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 begin
-    require 'LMNxGIT'
+    require_relative './LMNxGIT'
 rescue LoadError
     system("clear")
     system("xdg-open https://t.me/TM_LMNx9")
