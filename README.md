@@ -1,4 +1,5 @@
 # LMNxGIT - For Termux
+ - A Powerful Tool For GitHub Multi Branch Repository Downloader
 
 <p align="center">
   <img src="https://github.com/LMNx9-JOHNY/LMNxGIT/raw/refs/heads/main/LMNxGIT.png" alt="LMNxGIT" width="300">
